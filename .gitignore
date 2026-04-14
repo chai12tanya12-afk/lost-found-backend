@@ -221,3 +221,4 @@ nltk_data/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+firebase_credentials.json 
