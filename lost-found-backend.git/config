@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[branch "main"]
+	remote = https://github.com/chai12tanya12-afk/lost-found-backend.git
+	merge = refs/heads/main
